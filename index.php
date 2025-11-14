@@ -1,2 +1,3 @@
-<?php
-echo "ini adalah index";
+<?php 
+echo 'belajar php';
+?>
